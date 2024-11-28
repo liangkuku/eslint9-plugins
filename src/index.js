@@ -1,0 +1,1 @@
+const pinyin = 1;
