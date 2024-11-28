@@ -1,0 +1,1 @@
+实现一个自定义的eslintPinyinPlugin，src文件夹下的js文件中变量名不能是pinyin，否则eslint报错。
